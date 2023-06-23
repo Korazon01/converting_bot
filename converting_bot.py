@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import telebot
 
-API_TOKEN = '6256619630:AAGIii420kntnW8x3ynyq4acmysw-aeDQbY'
+API_TOKEN = 'TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
 
